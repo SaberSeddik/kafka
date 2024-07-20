@@ -1,0 +1,4 @@
+/confluent-*/
+/confluent-*.zip
+.DS_Store
+.idea
